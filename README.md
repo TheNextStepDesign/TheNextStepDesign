@@ -1,9 +1,9 @@
-# Organization Name
+# TheNextStepDesign
 
-![Logo](url-to-your-logo)
+![Logo](https://media.licdn.com/dms/image/C4E0BAQEYz0SoFl4d8Q/company-logo_200_200/0/1631311649530?e=1725494400&v=beta&t=VtdEiFuPyocOSWIbjOgEy0KDCGBLkwPPuDHOI9878MM)
 
 ## Introduction
-Welcome to [Organization Name]! We are dedicated to [mission/vision].
+Welcome to The Nextstep Design is a laboratory for creating and delivering communication for great ideas, in the form ready for a digitally advanced world.
 
 ## Projects and Repositories
 - **[Project 1](link-to-repo):** Short description of what Project 1 does.
